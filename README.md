@@ -1,16 +1,16 @@
-## Hi there 👋
+Fala aí!
 
-<!--
-**lucasrochemont/lucasrochemont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Rochemont, estou começando como desenvolvedor front-end, criando sites e interfaces com visuais funcionais e limpos.
+Se uma ideia vem na minha cabeça, eu provavelmente vou fazer de tudo pra tirar ela do papel.
 
-Here are some ideas to get you started:
+Minhas ferramentas que eu mais uso são o Visual Code, o PhotoShop e o Canva, além de outras ferramentas de design e programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algumas coisas sobre mim:
+* Eu toco guitarra e piano
+* Gosto de customizar as coisas, tanto a guitarra quanto o pc e o setup
+* Mexo com tecnologia desde que era criança
+
+Se quiser trocar ideia:  
+https://instagram.com/lucas_rochemont
+
+Estou sempre aprendendo, construindo e melhorando um projeto por vez.
