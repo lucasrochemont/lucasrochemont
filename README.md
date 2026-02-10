@@ -10,7 +10,7 @@ Algumas coisas sobre mim:
 * Gosto de customizar as coisas, tanto a guitarra quanto o pc e o setup
 * Mexo com tecnologia desde que era criança
 
-Se quiser trocar ideia:  
+Se quiser trocar uma ideia:  
 https://instagram.com/lucas_rochemont
 
 Estou sempre aprendendo, construindo e melhorando um projeto por vez.
