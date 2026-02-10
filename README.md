@@ -13,4 +13,4 @@ Algumas coisas sobre mim:
 Se quiser trocar uma ideia:  
 https://instagram.com/lucas_rochemont
 
-Estou sempre aprendendo, construindo e melhorando um projeto por vez.
+Tô sempre por aqui aprendendo, construindo e melhorando um projeto por vez.
