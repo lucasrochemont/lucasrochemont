@@ -1,9 +1,7 @@
 Fala aí!
+Meu nome é Lucas, estou começando como desenvolvedor front-end, visando me tornar um dev full stack.
 
-Meu nome é Lucas, estou começando como desenvolvedor front-end, criando sites e interfaces com visuais funcionais e limpos.
-Se uma ideia aparece na minha cabeça, eu provavelmente vou fazer de tudo pra tirar ela do papel.
-
-Minhas ferramentas que eu mais uso são o Visual Code, o Photoshop e o Canva, além de outras ferramentas de design e programação.
+Minhas ferramentas que mais uso no momento são o Visual Code, o Photoshop e o tailwindcss, além de outras ferramentas de design e programação.
 
 Algumas coisas sobre mim:
 * Eu toco guitarra e piano
